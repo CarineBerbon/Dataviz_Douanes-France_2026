@@ -1,2 +1,2 @@
-# Dataviz_Douanes-France_2026
-Dataviz présentant les données des douanes françaises. Restez connectés, le rapport sera progressivement enrichi de nouvelles pages ces prochaines semaines. 
+# Datavisualisations sur les douanes françaises
+Tableaux de bord interactifs Power BI présentant les données des échanges commerciaux tricolores. Restez connectés, le rapport sera progressivement enrichi de nouvelles pages ces prochaines semaines. 
